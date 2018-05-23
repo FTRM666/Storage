@@ -13,29 +13,19 @@
 					<key>url</key>
 					<string>https://ftrm666.github.io/Storage/JB10/tools/dh.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://raw.githubusercontent.com/kpwn/yalu102/master/yalu102/Assets.xcassets/AppIcon.appiconset/AppIcon60x60%403x.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://raw.githubusercontent.com/kpwn/yalu102/master/yalu102/Assets.xcassets/AppIcon.appiconset/AppIcon60x60%403x.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>sp1k3.cracksby.dh</string>
+				<string>sp1k3.jailbreak.dh8</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>4.0</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>subtitle</key>
+				<string>41A472</string>
 				<key>title</key>
-				<string>DH / @sp1k3</string>
+				<string>Double H3lix</string>
 			</dict>
 		</dict>
 	</array>
