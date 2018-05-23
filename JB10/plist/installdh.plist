@@ -17,15 +17,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>sp1k3.jailbreak.dh8</string>
+				<string>org.tihmstar.doubleH3lix</string>
 				<key>bundle-version</key>
-				<string>4.0</string>
+				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>41A472</string>
 				<key>title</key>
-				<string>Double H3lix</string>
+				<string>doubleH3lix</string>
 			</dict>
 		</dict>
 	</array>
